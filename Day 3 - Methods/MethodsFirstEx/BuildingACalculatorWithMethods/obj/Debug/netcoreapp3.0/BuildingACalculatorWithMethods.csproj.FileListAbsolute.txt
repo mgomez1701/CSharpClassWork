@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\bin\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\obj\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\obj\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\obj\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\obj\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\BuildingACalculatorWithMethods\obj\Debug\netcoreapp3.0\BuildingACalculatorWithMethods.pdb

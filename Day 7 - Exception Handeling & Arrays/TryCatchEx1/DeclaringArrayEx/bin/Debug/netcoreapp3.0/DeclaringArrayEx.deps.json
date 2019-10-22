@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DeclaringArrayEx/1.0.0": {
+        "runtime": {
+          "DeclaringArrayEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeclaringArrayEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

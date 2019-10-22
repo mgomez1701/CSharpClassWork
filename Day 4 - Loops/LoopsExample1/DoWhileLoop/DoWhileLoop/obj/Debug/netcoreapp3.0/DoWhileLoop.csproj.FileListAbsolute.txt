@@ -1,0 +1,10 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\bin\Debug\netcoreapp3.0\DoWhileLoop.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp3.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp3.0\DoWhileLoop.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp3.0\DoWhileLoop.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\DoWhileLoop\obj\Debug\netcoreapp3.0\DoWhileLoop.pdb

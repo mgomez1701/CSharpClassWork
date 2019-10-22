@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\bin\Debug\netcoreapp3.0\TryCatchEx1.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\obj\Debug\netcoreapp3.0\TryCatchEx1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\obj\Debug\netcoreapp3.0\TryCatchEx1.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\obj\Debug\netcoreapp3.0\TryCatchEx1.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\obj\Debug\netcoreapp3.0\TryCatchEx1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\TryCatchEx1\obj\Debug\netcoreapp3.0\TryCatchEx1.pdb

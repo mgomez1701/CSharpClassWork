@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\bin\Debug\Day 1 - Variables.exe.config
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\bin\Debug\Day 1 - Variables.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\bin\Debug\Day 1 - Variables.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\obj\Debug\Day 1 - Variables.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\obj\Debug\Day 1 - Variables.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\obj\Debug\Day 1 - Variables.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 1 - Variables\Day 1 - Variables\obj\Debug\Day 1 - Variables.pdb

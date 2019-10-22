@@ -1,0 +1,10 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\bin\Debug\netcoreapp3.0\FillArrayEx.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\obj\Debug\netcoreapp3.0\FillArrayEx.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\obj\Debug\netcoreapp3.0\FillArrayEx.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\obj\Debug\netcoreapp3.0\FillArrayEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\FillArrayEx\obj\Debug\netcoreapp3.0\FillArrayEx.pdb

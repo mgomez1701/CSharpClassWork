@@ -1,0 +1,10 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\bin\Debug\netcoreapp3.0\ConcatExampleString.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\obj\Debug\netcoreapp3.0\ConcatExampleString.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\obj\Debug\netcoreapp3.0\ConcatExampleString.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\obj\Debug\netcoreapp3.0\ConcatExampleString.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\ConcatExampleString\obj\Debug\netcoreapp3.0\ConcatExampleString.pdb

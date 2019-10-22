@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\obj\Debug\netcoreapp3.0\LoopsExample1.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\obj\Debug\netcoreapp3.0\LoopsExample1.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\obj\Debug\netcoreapp3.0\LoopsExample1.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\bin\Debug\netcoreapp3.0\LoopsExample1.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\obj\Debug\netcoreapp3.0\LoopsExample1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\LoopsExample1\obj\Debug\netcoreapp3.0\LoopsExample1.pdb

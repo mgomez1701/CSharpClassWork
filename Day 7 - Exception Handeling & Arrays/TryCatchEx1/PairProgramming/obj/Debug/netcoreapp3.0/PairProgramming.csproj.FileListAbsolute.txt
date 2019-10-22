@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\bin\Debug\netcoreapp3.0\PairProgramming.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\obj\Debug\netcoreapp3.0\PairProgramming.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\obj\Debug\netcoreapp3.0\PairProgramming.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\obj\Debug\netcoreapp3.0\PairProgramming.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\obj\Debug\netcoreapp3.0\PairProgramming.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\PairProgramming\obj\Debug\netcoreapp3.0\PairProgramming.pdb

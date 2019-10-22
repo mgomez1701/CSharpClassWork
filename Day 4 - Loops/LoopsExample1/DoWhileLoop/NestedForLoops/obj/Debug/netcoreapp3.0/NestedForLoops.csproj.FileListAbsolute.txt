@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\bin\Debug\netcoreapp3.0\NestedForLoops.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\obj\Debug\netcoreapp3.0\NestedForLoops.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\obj\Debug\netcoreapp3.0\NestedForLoops.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\obj\Debug\netcoreapp3.0\NestedForLoops.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\obj\Debug\netcoreapp3.0\NestedForLoops.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\NestedForLoops\obj\Debug\netcoreapp3.0\NestedForLoops.csprojAssemblyReference.cache

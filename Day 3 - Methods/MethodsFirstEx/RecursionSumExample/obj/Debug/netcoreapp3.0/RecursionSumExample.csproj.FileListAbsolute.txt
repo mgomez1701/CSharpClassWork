@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\bin\Debug\netcoreapp3.0\RecursionSumExample.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\obj\Debug\netcoreapp3.0\RecursionSumExample.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\obj\Debug\netcoreapp3.0\RecursionSumExample.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\obj\Debug\netcoreapp3.0\RecursionSumExample.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\obj\Debug\netcoreapp3.0\RecursionSumExample.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\RecursionSumExample\obj\Debug\netcoreapp3.0\RecursionSumExample.pdb

@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\bin\Debug\netcoreapp3.0\MethodsFirstEx.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\obj\Debug\netcoreapp3.0\MethodsFirstEx.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\obj\Debug\netcoreapp3.0\MethodsFirstEx.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\obj\Debug\netcoreapp3.0\MethodsFirstEx.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\obj\Debug\netcoreapp3.0\MethodsFirstEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 3 - Methods\MethodsFirstEx\MethodsFirstEx\obj\Debug\netcoreapp3.0\MethodsFirstEx.pdb

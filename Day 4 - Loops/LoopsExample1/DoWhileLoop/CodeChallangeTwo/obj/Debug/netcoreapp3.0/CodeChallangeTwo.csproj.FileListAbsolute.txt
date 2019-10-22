@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\obj\Debug\netcoreapp3.0\CodeChallangeTwo.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\obj\Debug\netcoreapp3.0\CodeChallangeTwo.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\obj\Debug\netcoreapp3.0\CodeChallangeTwo.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\bin\Debug\netcoreapp3.0\CodeChallangeTwo.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\obj\Debug\netcoreapp3.0\CodeChallangeTwo.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 4 - Loops\LoopsExample1\DoWhileLoop\CodeChallangeTwo\obj\Debug\netcoreapp3.0\CodeChallangeTwo.pdb

@@ -1,0 +1,10 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\bin\Debug\netcoreapp3.0\ForLoopArrayExcercise1.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\obj\Debug\netcoreapp3.0\ForLoopArrayExcercise1.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\obj\Debug\netcoreapp3.0\ForLoopArrayExcercise1.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\obj\Debug\netcoreapp3.0\ForLoopArrayExcercise1.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\ForLoopArrayExcercise1\obj\Debug\netcoreapp3.0\ForLoopArrayExcercise1.pdb

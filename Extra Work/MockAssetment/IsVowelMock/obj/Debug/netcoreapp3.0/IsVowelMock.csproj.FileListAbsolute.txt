@@ -1,0 +1,3 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\New folder\MockAssetment\IsVowelMock\obj\Debug\netcoreapp3.0\IsVowelMock.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\New folder\MockAssetment\IsVowelMock\obj\Debug\netcoreapp3.0\IsVowelMock.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\New folder\MockAssetment\IsVowelMock\obj\Debug\netcoreapp3.0\IsVowelMock.AssemblyInfo.cs
