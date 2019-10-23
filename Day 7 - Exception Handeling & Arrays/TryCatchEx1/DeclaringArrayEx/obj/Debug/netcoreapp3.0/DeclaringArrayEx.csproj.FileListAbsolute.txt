@@ -9,3 +9,14 @@ C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Array
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.AssemblyInfo.cs
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.dll
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\bin\Debug\netcoreapp3.0\DeclaringArrayEx.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 7 - Exception Handeling & Arrays\TryCatchEx1\DeclaringArrayEx\obj\Debug\netcoreapp3.0\DeclaringArrayEx.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\TryCatchEx1.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\TryCatchEx1.csproj",
       "projectName": "TryCatchEx1",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\TryCatchEx1.csproj",
+      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\TryCatchEx1.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\obj\\",
+      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\TryCatchEx1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

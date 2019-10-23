@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\PairProgramming.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\PairProgramming.csproj",
       "projectName": "PairProgramming",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\PairProgramming.csproj",
+      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\PairProgramming.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\obj\\",
+      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\PairProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

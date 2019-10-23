@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj",
         "projectName": "DeclaringArrayEx",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\DeclaringArrayEx.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 7 - Exception Handeling & Arrays\\TryCatchEx1\\DeclaringArrayEx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
