@@ -26,7 +26,7 @@ namespace WhiteBoard2
                 if(input %5 == 0)
                 {
                     counter--;
-                    number.Add(input);
+                    number.Add(input); // adding input to the list up to a max 5 
                 }
             }
         }

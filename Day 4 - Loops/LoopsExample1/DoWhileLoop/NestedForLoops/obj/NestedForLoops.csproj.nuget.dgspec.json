@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj",
         "projectName": "NestedForLoops",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\NestedForLoops.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\NestedForLoops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewData["Title"] = "DisplaySupers";
+}
+
+@model List<Supers>
+
+<h1>DisplaySupers</h1>
+
+<div class="row">
+    @foreach(Supers super in Model)
+    {
+        <div class="col-md-3">
+            <h2>@super.IRLName </h2>
+            <h4> @super.SuperName</h4>
+            <p>Power Level: @super.PowerLevel</p>
+            <p>Universe: @super.Universe</p>
+
+            @if (super.Powers != null)
+            {
+
+
+                @foreach (Powers power in super.Powers)
+                {
+                    <ul>
+                        <li>@power.Name</li>
+                        <li>@power.Level</li>
+                        <li>@power.Description</li>
+
+
+                    </ul>  
+
+                }
+            }
+        </div>
+    }
+
+</div>
+

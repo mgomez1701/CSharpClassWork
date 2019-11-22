@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\bin\Debug\netcoreapp3.0\Build Inheritance Code Challange.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\obj\Debug\netcoreapp3.0\Build Inheritance Code Challange.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\obj\Debug\netcoreapp3.0\Build Inheritance Code Challange.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\obj\Debug\netcoreapp3.0\Build Inheritance Code Challange.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\obj\Debug\netcoreapp3.0\Build Inheritance Code Challange.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day11 OOP\Notes\Build Inheritance Code Challange\obj\Debug\netcoreapp3.0\Build Inheritance Code Challange.pdb

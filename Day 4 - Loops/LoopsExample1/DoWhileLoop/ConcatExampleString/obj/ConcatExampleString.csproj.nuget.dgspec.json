@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj",
         "projectName": "ConcatExampleString",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\ConcatExampleString.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\ConcatExampleString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

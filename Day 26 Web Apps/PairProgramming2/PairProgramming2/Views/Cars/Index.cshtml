@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Cars>
+<h1>Index</h1>
+
+<form action="../Cars/SaveCar" method="post">
+    <input type="text" placeholder="Make" name="Make" value="" />
+    <input type="text" placeholder="Model" name="Model" value="" />
+    <input type="number" min="0" max="2020" placeholder="Year" name="Year" value="" />
+
+    <input type="submit" value="Add new vehicle" class=" btn-outline-info" />
+
+</form>
+<form asp-controller="Cars" asp-action="ViewList" method="post">
+<button type="submit"> View Car List</button>
+</form>
+
+
+@*@if(Model != null)
+{
+    foreach(Cars car in Model)
+    {
+        <p>
+            @car.Make / @car.Model/ @car.Year 
+        </p>
+    }
+}*@
+
+
+

@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Employees>
+
+<h1>Index</h1>
+
+@*making a table*@ 
+
+<table class="table">
+    @*giving the table colum headers*@
+    <tr>
+        <th> First Name</th>
+        <th> Last Name</th>
+        <th> Birth Date</th>
+        <th> Country</th>
+    @*making a row for each employee*@
+    </tr>
+    @foreach (Employees e in Model)
+    {
+<tr>
+    <td> @e.FirstName</td>
+    <td> @e.LastName</td>
+    <td> @e.BirthDate</td>
+    <td> @e.Country</td>
+
+
+</tr>
+    }
+</table>

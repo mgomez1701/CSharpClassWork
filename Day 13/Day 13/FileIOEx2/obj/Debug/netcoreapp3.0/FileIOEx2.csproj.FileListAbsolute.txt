@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\bin\Debug\netcoreapp3.0\FileIOEx2.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\FileIOEx2\obj\Debug\netcoreapp3.0\FileIOEx2.pdb

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\CodeChallange.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\CodeChallange.csproj",
       "projectName": "CodeChallange",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\CodeChallange.csproj",
+      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\CodeChallange.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\obj\\",
+      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\CodeChallange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

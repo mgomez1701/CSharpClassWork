@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    var person = "Mike";
+    <h1>@person</h1>
+    foreach (char letter in person)
+    {
+        <h4>@letter</h4>
+    }
+
+    <a class="nav-link text-dark" asp-area="" asp-controller="Super" asp-action="Index">OFWGKTA</a>
+
+}

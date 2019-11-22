@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewData["Title"] = "Second";
+    var haroldVariable = TempData["HaroldsKeys"]?.ToString(); /*? is checking something is indexer tempdata to turn into a string */
+                                                           //TempData.Keep();
+}
+
+<h1>Second</h1>
+
+Harold's Name: @haroldVariable

@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\bin\Debug\netcoreapp3.0\AnimalClassExample.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\AnimalClassExample\AnimalClassExample\obj\Debug\netcoreapp3.0\AnimalClassExample.pdb

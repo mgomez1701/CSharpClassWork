@@ -8,3 +8,4 @@ C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 8\AMPracticeQu
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 8\AMPracticeQuiz\WhiteBoard2\obj\Debug\netcoreapp3.0\WhiteBoard2.AssemblyInfo.cs
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 8\AMPracticeQuiz\WhiteBoard2\obj\Debug\netcoreapp3.0\WhiteBoard2.dll
 C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 8\AMPracticeQuiz\WhiteBoard2\obj\Debug\netcoreapp3.0\WhiteBoard2.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 8\AMPracticeQuiz\WhiteBoard2\obj\Debug\netcoreapp3.0\WhiteBoard2.csprojAssemblyReference.cache

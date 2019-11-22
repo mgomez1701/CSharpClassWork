@@ -1,0 +1,34 @@
+﻿@using EFCoreDAy28Ex1.Controllers.Context;
+
+@{
+    ViewData["Title"] = "ListEmployeesByDepartment";
+}
+@model List<Employee>
+
+<h1>Employees By Department</h1>
+
+<table class="table">
+<tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email</th>
+    <th>Department</th>
+</tr>
+
+@foreach (Employee employee in Model)
+{
+
+    <tr>
+        <td>@employee.FirstName</td>
+        <td>@employee.LastName</td>
+        <td>@employee.Email</td>
+        <td>@employee.Department</td>
+
+        @*C.R.U.D. FUNCTIONS*@
+        <td> <a href="../CompanyDb/UpdateEmployee?id=@employee.EmployeeId" class="btn btn-primary">Update Employee!</a></td>
+        <td> <a href="../CompanyDb/DeleteEmployee?id=@employee.EmployeeId" class="btn btn-danger">Delete Employee!</a></td>
+    </tr>
+
+}
+</table>
+

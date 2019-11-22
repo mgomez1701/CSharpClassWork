@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\bin\Debug\netcoreapp3.0\BoardExample2.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\obj\Debug\netcoreapp3.0\BoardExample2.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\obj\Debug\netcoreapp3.0\BoardExample2.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\obj\Debug\netcoreapp3.0\BoardExample2.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\obj\Debug\netcoreapp3.0\BoardExample2.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 9 Collections\ClassesExample\BoardExample2\obj\Debug\netcoreapp3.0\BoardExample2.pdb

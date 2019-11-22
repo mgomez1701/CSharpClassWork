@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
       "projectName": "DoWhileLoop",
-      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
+      "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\DoWhileLoop.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\obj\\",
+      "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\DoWhileLoop\\DoWhileLoop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

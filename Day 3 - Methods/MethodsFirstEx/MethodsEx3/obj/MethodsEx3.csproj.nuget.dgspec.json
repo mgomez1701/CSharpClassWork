@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj",
         "projectName": "MethodsEx3",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\MethodsEx3.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodsEx3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

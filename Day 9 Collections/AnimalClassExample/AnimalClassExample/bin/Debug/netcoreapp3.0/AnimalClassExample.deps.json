@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AnimalClassExample/1.0.0": {
+        "runtime": {
+          "AnimalClassExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalClassExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

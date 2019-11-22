@@ -1,0 +1,19 @@
+﻿@using EFCoreDAy28Ex1.Controllers.Context
+@{
+    ViewData["Title"] = "UpdateEmployee";
+}
+@model Employee
+
+<h1>Update Employee</h1>
+
+<form action="../CompanyDb/UpdateEmployee" method="post">
+    <input type="hidden" name="EmployeeId" value="@Model.EmployeeId" />
+    <input type="text" name="FirstName" value="@Model.FirstName" />
+    <input type="text" name="LastName" value="@Model.LastName" />
+    <input type="text" name="Email" value="@Model.Email" />
+    <input type="hidden" name="DepartmentId" value="@Model.DepartmentId" />
+
+    <input type="submit" value="Update" />
+
+
+</form>

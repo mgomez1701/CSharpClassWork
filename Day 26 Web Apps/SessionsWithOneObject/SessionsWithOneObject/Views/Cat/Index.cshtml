@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Cat>
+
+<h1>Index</h1>
+
+<form action="../Cat/SaveCat" method="post">
+    <input type="text" name="Name" value="" />
+    <input type="text" name="Color" value="" />
+    <input type="number" min="0" max="25" name="Age" value="" />
+
+    <input type="submit" value="Save the Kittens!" class=" btn-outline-info" />
+
+</form>
+@if (Model != null)
+{
+    foreach (Cat cat in Model)
+    {
+        <p>
+            @cat.Name is @cat.Color and @cat.Age years old.
+        </p>
+    }
+    
+}

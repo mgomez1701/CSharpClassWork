@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj",
         "projectName": "WhileLoopExample",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\WhileLoopExample.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 4 - Loops\\LoopsExample1\\WhileLoopExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

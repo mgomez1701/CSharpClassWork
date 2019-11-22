@@ -1,0 +1,27 @@
+﻿@using EFCoreDAy28Ex1.Controllers.Context;
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+
+@model Employee
+
+<h1>Add Employee</h1>
+
+<form action="../CompanyDb/AddEmployee" method="post">
+    <input type="text" name="FirstName" placeholder="First Name" />
+    <input type="text" name="LastName" placeholder="Last Name" />
+    <input type="text" name="Email" placeholder="Email" />
+    <label>Advertising</label>
+    <input type="radio" name="DepartmentId" value="1"/>
+    <label> Accounting</label>
+    <input type="radio" name="DepartmentId" value="2" />
+    <label>Sales</label>
+    <input type="radio" name="DepartmentId" value="3"/>
+
+    <input type="submit" class="btn btn-primary" value="Add" />
+
+
+
+</form>
+
+

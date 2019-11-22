@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj",
         "projectName": "MethodOverLoading",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\MethodOverLoading.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Desktop\\C# Boot Camp\\GitHubRepo4Notes\\Day 3 - Methods\\MethodsFirstEx\\MethodOverLoading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

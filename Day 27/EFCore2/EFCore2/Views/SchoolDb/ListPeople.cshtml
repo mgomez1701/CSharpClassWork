@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "ListPeople";
+}
+
+@model List<Persons>
+<h1>Index</h1>
+
+<div class="row">
+    @foreach (Persons person in Model)
+    {
+    <div class="col-md-3">
+        <h3>@person.FirstName @person.LastName</h3>
+        <h6>@person.Dob</h6>
+
+        @if (person.StudentId != null)
+        {
+            <p>@person.FirstName, is a student!</p>
+        }
+        else if (person.InstructorId != null)
+        {
+            <p>@person.FirstName is an instrcutor!</p>
+        }
+        else
+        {
+            <p>I dont know what this person is!</p>
+        }
+        <a href="../SchoolDb/UpdatePerson?id=@person.Id" class="btn btn-danger">Update </a>
+        <a href="../SchoolDb/RemovePerson?id=@person.Id" class="btn btn-primary">Delete </a>
+
+
+    </div>
+    }
+
+
+</div>
+
+
+@*adding a button to allow user to add a new person*@
+
+<a class="btn btn-primary" asp-area="" asp-controller="SchoolDb" asp-action="AddNewPerson">Add New Person!</a>
+<style>
+
+    a{
+        margin-top:10px;
+    }
+</style>

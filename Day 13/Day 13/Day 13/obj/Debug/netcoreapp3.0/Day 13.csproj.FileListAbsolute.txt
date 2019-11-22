@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\bin\Debug\netcoreapp3.0\Day 13.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\obj\Debug\netcoreapp3.0\Day 13.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\obj\Debug\netcoreapp3.0\Day 13.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\obj\Debug\netcoreapp3.0\Day 13.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\obj\Debug\netcoreapp3.0\Day 13.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\GitHubRepo4Notes\Day 13\Day 13\Day 13\obj\Debug\netcoreapp3.0\Day 13.pdb
