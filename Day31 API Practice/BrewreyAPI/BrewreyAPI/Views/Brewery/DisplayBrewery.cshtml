@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "DisplayBrewery";
+}
+@model List<Brewery>
+
+
+<h1>DisplayBrewery</h1>
+
+@foreach(var b in Model)
+{
+<ul>
+    <li><h3>@b.name</h3></li>
+    <li>@b.brewery_type</li>
+    <li>@b.street</li>
+    <li>@b.city</li>
+    <li>@b.state</li>
+    <li>@b.postal_code</li>
+
+</ul>
+}
+

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "DisplayCategories";
+}
+@*when the class is an array we can skip the rootobject and just get the array ex Class1*@
+@model List<Cats>
+<h1>DisplayCategories</h1>
+
+<form action="../Cat/DisplayByCategory" method="post">
+    <select name="category">
+        @*add a foreach to go through list of categories*@
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <option value="@Model.[i].id">@Model[i].name</option>
+        }
+   
+        
+            //cut and paste option into foreach
+
+
+    </select>
+    <input type="submit" value="See Cats!" />
+
+
+</form>

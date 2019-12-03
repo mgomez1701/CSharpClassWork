@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Search";
+}
+@model Donut
+
+<h1>Donuts</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <td>Name</td>
+        <td>Calories</td>
+        <td>PhotoURL</td>
+        <td>Extras</td>
+
+
+    </tr>
+    <tr>
+        <td>@Model.Name</td>
+        <td>@Model.Calories</td>
+        <td><img width ="300"src="@Model.Photo"/></td>
+        <td>
+            @foreach(var extra in Model.Extras)
+            {
+                <p>@extra</p>
+            }
+        </td>
+
+    </tr>
+</table>

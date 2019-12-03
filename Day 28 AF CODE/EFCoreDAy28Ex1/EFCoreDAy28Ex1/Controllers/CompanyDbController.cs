@@ -61,7 +61,7 @@ namespace EFCoreDAy28Ex1.Controllers
         {
             return View(_database.Department.Find(id));
         }
-
+        
         [HttpPost]
         public IActionResult UpdateDepartment(Department newDepartment)
         {
